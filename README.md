@@ -16,7 +16,7 @@ The selected target variable for this project is:
 
 ## Related Research
 The paper *“Cyber Intrusion Detection Using Machine Learning”* was selected as a related study.  
-Although it uses a different dataset, its methodology and focus on applying machine learning techniques to analyze cyberattacks align with the goal of my project and support the analysis of the outcome variable. 
+Although it uses a different dataset, its methodology and focus on applying machine learning techniques to analyze cyberattacks align with the goal of our project and support the analysis of the outcome variable. 
 
 ## Team Members
 - Noor Alghuwairy 
